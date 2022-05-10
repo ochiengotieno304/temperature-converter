@@ -4,6 +4,8 @@ android temperature converter
 
 ---
 ## Preview
-![Alt text](/Screenshot_20220510_230938.png?raw=true)
-![Alt text](/Screenshot_20220510_231036.png?raw=true)
-![Alt text](/Screenshot_20220510_231124.png?raw=true)
+<div style="display: flex; justify-content: space-between;">
+<img src="/Screenshot_20220510_230938.png" alt="drawing" width="200" />
+<img src="/Screenshot_20220510_231036.png" alt="drawing" width="200"/>
+<img src="/Screenshot_20220510_231124.png" alt="drawing" width="200"/>
+</div>
